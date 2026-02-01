@@ -1,0 +1,8 @@
+name,risk_tier,next_review_date
+Acme Cloud,High,2025-05-01
+Beta SaaS,Medium,2025-06-15
+Gamma AI,High,2025-04-20
+Delta Storage,Low,2025-07-30
+Epsilon Backup,Medium,2025-04-25
+Zeta Analytics,High,2025-03-10
+
