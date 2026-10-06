@@ -31,7 +31,7 @@ Beta SaaS | Medium | 15-Jun
 Roadmap
 	•	Risk-tier colour enhancements (v0.2 ✔)
 	•	Slack webhook integration (v0.2 ✔)
-	•	Infrastructure / Terraform state drift checks (v0.3)
+	•	Planned: Explore Terraform state drift checks as a future GRC automation enhancement.
 
 Open an issue or submit a PR — the aim is to build practical, composable tools that make TPRM less manual and more reliable.
 
