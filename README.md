@@ -17,7 +17,7 @@ Built as a practical GRC automation project. Terraform drift checks planned for 
 - Reads `vendors.csv` (name, risk_tier, next_review_date)  
 - Filters due ≤ 30 days  
 - **ANSI colour tiers** (High=red, Medium=yellow, Low=green)  
-- **Prints Slack-ready JSON blocks** for any webhook  
+- **Generates Slack-ready JSON payloads for webhook integration 
 - 12 seconds to notification
 
 
