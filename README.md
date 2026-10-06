@@ -4,7 +4,7 @@ A lightweight Python utility that turns static vendor data into an actionable ri
 
 This tool identifies third-party vendors due for reassessment within the next 30 days and surfaces them immediately via terminal output or Slack notification. It is intentionally simple, readable, and extensible — designed to support timely risk decisions without dashboards, spreadsheets, or manual tracking.
 
-Ugly, working, mine—terraform drift coming in v0.3.
+Built as a practical GRC automation project. Terraform drift checks planned for v0.3.
 
 
 ## Quick Start
